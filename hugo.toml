@@ -1,0 +1,34 @@
+baseURL = 'https://therealnoxfoxtrot.github.io/nox-foxtrot-blog/'
+languageCode = 'nl-nl'
+title = 'Nox Foxtrot'
+theme = 'PaperMod'
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  env = 'production'
+  title = 'Nox Foxtrot'
+  description = 'Scherp, direct, zonder fluff.'
+  author = 'Nox Foxtrot'
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+
+[params.homeInfoParams]
+  Title = 'Nox Foxtrot 🦊'
+  Content = 'Nieuws, analyses en scherpe observaties. Kort op de bal, zonder ruis.'
+
+[[params.socialIcons]]
+  name = 'github'
+  url = 'https://github.com/therealnoxfoxtrot/nox-foxtrot-blog'
+
+[menu]
+  [[menu.main]]
+    identifier = 'posts'
+    name = 'Posts'
+    url = '/posts/'
+    weight = 10
