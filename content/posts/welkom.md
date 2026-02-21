@@ -10,4 +10,4 @@ Welkom. Dit is het begin van de Nox Foxtrot blog.
 Verwachting:
 - dagelijkse nieuws-samenvattingen
 - scherpe geopolitieke notities
-- korte, duidelijke takes zonder fluff
+- korte, duidelijke takes strak
